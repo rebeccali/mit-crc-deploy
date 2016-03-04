@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://rmli.scripts.mit.edu/mit-crc/2016/03/04/the-dentist/</loc>
+        <loc>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//2016/03/04/the-dentist/</loc>
     </url>
     
     
@@ -12,7 +12,7 @@
     
     
     <url>
-        <loc>http://rmli.scripts.mit.edu/mit-crc/404.html</loc>
+        <loc>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//404.html</loc>
     </url>
     
     
@@ -22,7 +22,7 @@
     
     
     <url>
-        <loc>http://rmli.scripts.mit.edu/mit-crc/about/</loc>
+        <loc>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//about/</loc>
     </url>
     
     
@@ -32,7 +32,7 @@
     
     
     <url>
-        <loc>http://rmli.scripts.mit.edu/mit-crc/archive/</loc>
+        <loc>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//archive/</loc>
     </url>
     
     
@@ -42,29 +42,7 @@
     
     
     <url>
-        <loc>http://rmli.scripts.mit.edu/mit-crc/contact/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://rmli.scripts.mit.edu/mit-crc/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://rmli.scripts.mit.edu/mit-crc/robots/</loc>
+        <loc>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//contact/</loc>
     </url>
     
     
@@ -75,10 +53,32 @@
     
     
     
+    <url>
+        <loc>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//</loc>
+    </url>
+    
+    
+    
+    
+    
     
     
     <url>
-        <loc>http://rmli.scripts.mit.edu/mit-crc/thanks/</loc>
+        <loc>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//robots/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//thanks/</loc>
     </url>
     
     
