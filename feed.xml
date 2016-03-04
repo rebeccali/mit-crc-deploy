@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>MIT Combat Robotics Club</title>
+		<description>{&quot;meta&quot;=&gt;&quot;MIT Combat Robotics Club is dedicated to fighting robots and destruction.&quot;, &quot;subtitle&quot;=&gt;&quot;A club dedicated to destruction&quot;}</description>
+		<link>http://rmli.scripts.mit.edu/mit-crc</link>
+		<atom:link href="http://rmli.scripts.mit.edu/mit-crc/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>The Dentist</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;MIT Combat Robotics Club&quot;, &quot;email&quot;=&gt;&quot;mit-crc-exec@mit.edu&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;More details on the Dentist to come!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 04 Mar 2016 00:00:00 -0500</pubDate>
+				<link>http://rmli.scripts.mit.edu/mit-crc/2016/03/04/the-dentist/</link>
+				<guid isPermaLink="true">http://rmli.scripts.mit.edu/mit-crc/2016/03/04/the-dentist/</guid>
+			</item>
+		
+	</channel>
+</rss>
