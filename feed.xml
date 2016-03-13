@@ -7,14 +7,65 @@
 		<atom:link href="http://rmli.scripts.mit.edu/mit-crc//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>The Dentist</title>
+				<title>Wedgelets and Drums</title>
 				
 					
 						<dc:creator>{&quot;name&quot;=&gt;&quot;MIT Combat Robotics Club&quot;, &quot;email&quot;=&gt;&quot;mit-crc-exec@mit.edu&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
 					
 				
 				
-					<description>&lt;p&gt;More details on the Dentist to come!&lt;/p&gt;
+					<description>&lt;p&gt;This weekend was a lot of fabrication - we are finishing up the first iteration of the drive pods and also trying out other pieces of armor.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 13 Mar 2016 00:00:00 -0500</pubDate>
+				<link>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//2016/03/13/wedgelets-and-drums/</link>
+				<guid isPermaLink="true">http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//2016/03/13/wedgelets-and-drums/</guid>
+			</item>
+		
+			<item>
+				<title>Prius Motors and too much Power</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;MIT Combat Robotics Club&quot;, &quot;email&quot;=&gt;&quot;mit-crc-exec@mit.edu&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;When we first starting building the robot, Bayley was intent on using the Prius motor to power our drum. With 80kW of power and a max speed of 8000rpm, it makes for a powerful drum limited only by air resistance and the fact that we want to throw our opponent, not mill them. The Prius motor would be hooked up through a reverser to the weapon, which would spin at 16,000 rpm.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+				<link>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//2016/03/08/prius-motor/</link>
+				<guid isPermaLink="true">http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//2016/03/08/prius-motor/</guid>
+			</item>
+		
+			<item>
+				<title>CAD updates</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;MIT Combat Robotics Club&quot;, &quot;email&quot;=&gt;&quot;mit-crc-exec@mit.edu&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;Like all children, the Dentist has had a lot of growing pains. In the design, we’ve done an overhaul of the internal frame. In the first iteration of the drive pods, we noticed that excessive amounts of precision machining was slowing us down in progress. In the interest of time, we’ve switched over to a welded tube frame for the internals while still preserving the external structure.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 05 Mar 2016 00:00:00 -0500</pubDate>
+				<link>http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//2016/03/05/cad-updates/</link>
+				<guid isPermaLink="true">http://rmli.scripts.mit.edu/mit-crc/http://rmli.scripts.mit.edu/mit-crc//2016/03/05/cad-updates/</guid>
+			</item>
+		
+			<item>
+				<title>Announcing the Dentist</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;MIT Combat Robotics Club&quot;, &quot;email&quot;=&gt;&quot;mit-crc-exec@mit.edu&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;This is the moment of birth onto the world stage for our robot, the Dentist. This website will be used for documenting the creation of our robot, the Dentist!&lt;/p&gt;
 
 </description>
 				
